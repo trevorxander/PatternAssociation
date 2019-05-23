@@ -14,5 +14,5 @@ setup(
     author='Trevor Xander',
     author_email='trevorcolexander@gmail.com',
     long_description=read('README.md'),
-    install_requires=['pandas', 'numpy', 'jupyter', 'xlrd']
+    install_requires=['pandas', 'numpy', 'jupyter', 'xlrd', 'scipy']
 )
